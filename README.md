@@ -174,7 +174,7 @@ For full functionality without setup complexity:
 
 1. **Sign Up**
 
-   Visit [www.translacall.com](https://www.translacall.com) to create an account.
+   Visi the web site to create an account.
 
 2. **Select a Plan**
 
