@@ -63,7 +63,7 @@ The system comprises the following components:
 1. **Clone the Repository**
 
    <code>
-   git clone https://github.com/yourusername/translacall.git  
+   git clone https://github.com/tomchapin/translacall.git  
    cd translacall
    </code>
 
