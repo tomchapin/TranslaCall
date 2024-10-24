@@ -174,7 +174,7 @@ For full functionality without setup complexity:
 
 1. **Sign Up**
 
-   Visi the web site to create an account.
+   Visit the web site to create an account.
 
 2. **Select a Plan**
 
